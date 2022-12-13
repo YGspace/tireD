@@ -1,0 +1,2 @@
+color line loc : го
+text line loc : ╩С
